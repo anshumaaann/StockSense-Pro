@@ -1,0 +1,111 @@
+Large Cap / Blue-Chip (stable, always available):
+
+RELIANCE.NS – Reliance Industries
+
+TCS.NS – Tata Consultancy Services
+
+INFY.NS – Infosys
+
+HDFCBANK.NS – HDFC Bank
+
+ICICIBANK.NS – ICICI Bank
+
+SBIN.NS – State Bank of India
+
+ITC.NS – ITC
+
+LT.NS – Larsen & Toubro
+
+HINDUNILVR.NS – Hindustan Unilever
+
+AXISBANK.NS – Axis Bank
+
+Tech & Digital:
+
+WIPRO.NS – Wipro
+
+TECHM.NS – Tech Mahindra
+
+LTIM.NS – LTIMindtree
+
+HCLTECH.NS – HCL Technologies
+
+Finance & Insurance:
+
+BAJFINANCE.NS – Bajaj Finance
+
+BAJAJFINSV.NS – Bajaj Finserv
+
+KOTAKBANK.NS – Kotak Mahindra Bank
+
+SBILIFE.NS – SBI Life Insurance
+
+Energy & Industrials:
+
+ONGC.NS – ONGC
+
+NTPC.NS – NTPC
+
+POWERGRID.NS – Power Grid Corp
+
+TATAMOTORS.NS – Tata Motors
+
+ADANIPORTS.NS – Adani Ports
+
+🇺🇸 US Stocks (No suffix needed)
+
+Big Tech (great for flashy demos):
+
+AAPL – Apple
+
+MSFT – Microsoft
+
+GOOGL – Alphabet (Google)
+
+AMZN – Amazon
+
+META – Meta (Facebook)
+
+NVDA – NVIDIA
+
+TSLA – Tesla
+
+Finance & Consumer:
+
+JPM – JPMorgan Chase
+
+V – Visa
+
+MA – Mastercard
+
+WMT – Walmart
+
+KO – Coca-Cola
+
+PEP – PepsiCo
+
+
+
+🪙 Crypto (Optional – looks cool in demos)
+
+(Yahoo Finance supports these tickers too)
+
+BTC-USD – Bitcoin
+
+ETH-USD – Ethereum
+
+SOL-USD – Solana
+
+DOGE-USD – Dogecoin
+
+
+
+📊 Indices (for smooth charts)
+
+^NSEI – NIFTY 50
+
+^BSESN – Sensex
+
+^GSPC – S&P 500
+
+^IXIC – NASDAQ
