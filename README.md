@@ -1,8 +1,9 @@
 📈 StockSense Pro – AI-Powered Stock Trend Prediction Dashboard
 
-StockSense Pro is an end-to-end Machine Learning project that predicts short-term stock price direction (UP/DOWN) using historical market data and technical indicators. The trained model is deployed as an interactive fintech-style web dashboard using Streamlit for real-time analysis, visualization, and decision support.
+StockSense Pro is an end-to-end Machine Learning project that predicts short-term stock price direction (UP/DOWN) using historical market data and technical indicators.
+The trained model is deployed as an interactive, fintech-style web dashboard using Streamlit for real-time analysis, visualization, and decision support.
 
-⚠️ This project is built for educational and demonstration purposes only. It is not financial advice.
+⚠️ Disclaimer: This project is built for educational and demonstration purposes only. It does not constitute financial advice.
 
 🚀 Features
 
@@ -14,7 +15,7 @@ StockSense Pro is an end-to-end Machine Learning project that predicts short-ter
 
 📉 Technical Indicators: RSI, MACD, Volatility, Momentum
 
-🎯 Backtesting Visualization (strategy returns)
+🎯 Backtesting Visualization (strategy vs buy-and-hold returns)
 
 📊 Model Evaluation Metrics (Accuracy & Balanced Accuracy)
 
@@ -27,26 +28,24 @@ StockSense Pro is an end-to-end Machine Learning project that predicts short-ter
 🧠 Machine Learning Approach
 
 Problem Type: Supervised Classification
-
 Target: Predict whether tomorrow’s closing price will be higher than today’s (UP/DOWN)
-
 Model: Random Forest Classifier
 
-Feature Engineering:
+🔧 Feature Engineering
 
-Moving Averages (MA10, MA20, MA50)
+Moving Averages: MA10, MA20, MA50
 
-Volatility (10-day, 20-day)
+Volatility: 10-day, 20-day rolling volatility
 
-RSI (Relative Strength Index)
+Momentum Indicators: RSI (Relative Strength Index), MACD
 
-MACD
+Returns-Based Momentum: 1-day, 3-day, 7-day returns
 
-Momentum Features (Returns over 1, 3, 7 days)
+Class Imbalance Handling:
 
-Class Imbalance Handling: class_weight="balanced"
+class_weight="balanced"
 
-Evaluation Metrics:
+📊 Evaluation Metrics
 
 Accuracy
 
@@ -54,4 +53,4 @@ Balanced Accuracy
 
 Precision, Recall, F1-score
 
-Due to the stochastic nature of financial markets, short-term stock direction prediction is inherently noisy. The model is intended as a decision-support tool, not a guaranteed trading system.
+📌 Note: Due to the stochastic and non-stationary nature of financial markets, short-term stock direction prediction is inherently noisy. This system is intended as a decision-support tool, not a guaranteed trading strategy.
